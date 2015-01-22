@@ -1,4 +1,4 @@
-##Repair broken image url in wordpress posts
+##Repair broken image url on wordpress posts
 
 >I changed my vps server recently, and I had to migrating my wordpress blog too. I found there are several trouble when I completed migrating, and the most serious trouble is some image in some posts was broken. so here come.
 
